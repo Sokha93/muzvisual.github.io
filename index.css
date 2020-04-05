@@ -1,0 +1,15 @@
+#logo{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    background-color: seagreen;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    width: 100vw;
+    min-height: 100vh;
+	background-color: #000;
+}
